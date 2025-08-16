@@ -8,7 +8,7 @@
 🎬 Sometimes I break bugs… sometimes I break into dance 💃🕺
 🚀 On a mission to master code and creativity
 📸 Love to enjoy with Nature
-Insta_ https://www.instagram.com/venu_.gowd_.21/
+Insta_ https://www.instagram.com/venu_.21/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/venugopalakrishna.pamarthi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/venu_.gowd_.21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pamarthi-venu-gopala-krishna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pamarthivenugopalakrishna@gmail.com) 
