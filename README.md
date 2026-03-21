@@ -18,7 +18,7 @@
 
 Instagram: https://www.instagram.com/venu_.21/
 Leetcode: https://leetcode.com/u/venugopalakrishna/
-
+Geeksforgeeks: https://www.geeksforgeeks.org/profile/pamarthivenuga577
 ---
 
 ## 🌐 Socials
