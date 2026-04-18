@@ -9,7 +9,7 @@
 📚 Currently focusing on:
 • Data Structures & Algorithms (LeetCode)  
 • C++ STL  
-• Python (NumPy, Pandas)  
+• Python 
 • Machine Learning fundamentals  
 
 🎯 Goal: Become strong in problem solving and build solid AI/ML projects.
