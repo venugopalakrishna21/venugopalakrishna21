@@ -42,6 +42,18 @@ Geeksforgeeks: https://www.geeksforgeeks.org/profile/pamarthivenuga577
 
 ---
 
+# 🤝 Collaborations
+![Collaborations Badge](https://img.shields.io/badge/Collaborations-Open%20to%20Projects-brightgreen?style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-23+-blue?style=flat-square)
+
+I'm open to collaborating on exciting projects! Feel free to reach out for:
+- Machine Learning & AI projects
+- Data Science initiatives
+- DSA problem-solving groups
+- Open source contributions
+
+---
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=venugopalakrishna21&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)
 
