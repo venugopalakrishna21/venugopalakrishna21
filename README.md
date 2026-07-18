@@ -42,9 +42,12 @@ Geeksforgeeks: https://www.geeksforgeeks.org/profile/pamarthivenuga577
 
 ---
 
-# 🤝 Collaborations
-![Collaborations Badge](https://img.shields.io/badge/Collaborations-Open%20to%20Projects-brightgreen?style=flat-square)
+# 🤝 Collaborations & Stats
+
+![GitHub followers](https://img.shields.io/github/followers/venugopalakrishna21?label=Followers&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/venugopalakrishna21?label=Total%20Stars&style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-23+-blue?style=flat-square)
+![Collaborations Badge](https://img.shields.io/badge/Collaborations-Open%20to%20Projects-brightgreen?style=flat-square)
 
 I'm open to collaborating on exciting projects! Feel free to reach out for:
 - Machine Learning & AI projects
@@ -55,11 +58,12 @@ I'm open to collaborating on exciting projects! Feel free to reach out for:
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=venugopalakrishna21&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=venugopalakrishna21&theme=shadow_red&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venugopalakrishna21&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalakrishna21&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=venugopalakrishna21&theme=shadow_red&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalakrishna21&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
